@@ -1,0 +1,21 @@
+# ninja log v5
+1	96	6882489919790667	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-mkdir	767147a979035e4d
+97	9124	6882490010093738	C:/Users/Alin/CLionProjects/Snake/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-download	18ec426edfd67e87
+9444	9505	6882490013889945	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-test	51801b296669ce46
+1	96	6882489919790667	C:/Users/Alin/CLionProjects/Snake/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-mkdir	767147a979035e4d
+97	9124	6882490010093738	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-download	18ec426edfd67e87
+9124	9188	6882490010728941	C:/Users/Alin/CLionProjects/Snake/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-update	cad5f47fb251a546
+9252	9314	6882490011980520	C:/Users/Alin/CLionProjects/Snake/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-configure	655f7c4b025dc358
+9191	9252	6882490011369064	C:/Users/Alin/CLionProjects/Snake/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-patch	450605a15e0a2873
+9124	9188	6882490010728941	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-update	cad5f47fb251a546
+9191	9252	6882490011369064	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-patch	450605a15e0a2873
+9252	9314	6882490011980520	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-configure	655f7c4b025dc358
+9314	9381	6882490012651042	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-build	eeb4a6ae81517ba2
+9314	9381	6882490012651042	C:/Users/Alin/CLionProjects/Snake/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-build	eeb4a6ae81517ba2
+9382	9444	6882490013284722	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-install	6869b9822ed11f10
+9382	9444	6882490013284722	C:/Users/Alin/CLionProjects/Snake/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-install	6869b9822ed11f10
+9444	9505	6882490013889945	C:/Users/Alin/CLionProjects/Snake/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-test	51801b296669ce46
+9505	9600	6882490014840968	C:/Users/Alin/CLionProjects/Snake/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-done	80875b5bbf053531
+9505	9600	6882490014840968	CMakeFiles/raylib-populate-complete	80875b5bbf053531
+9505	9600	6882490014840968	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-done	80875b5bbf053531
+9505	9600	6882490014840968	C:/Users/Alin/CLionProjects/Snake/cmake-build-debug/_deps/raylib-subbuild/CMakeFiles/raylib-populate-complete	80875b5bbf053531
